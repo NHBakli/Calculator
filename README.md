@@ -1,6 +1,6 @@
-Ce dépôt contient le code source d'une calculatrice TypeScript simple et fonctionnelle. Cette calculatrice dispose d'une interface utilisateur minimaliste avec des boutons numériques et opérationnels pour effectuer des calculs arithmétiques de base.
-
 ## Calculatrice JavaScript
+
+Ce dépôt contient le code source d'une calculatrice TypeScript simple et fonctionnelle. Cette calculatrice dispose d'une interface utilisateur minimaliste avec des boutons numériques et opérationnels pour effectuer des calculs arithmétiques de base.
 
 ### Caractéristiques principales :
 
